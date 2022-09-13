@@ -1,7 +1,7 @@
 Lumpkin's Charts
 --------------------------
 TL:DR
-This project in essence is a stock chart that allows you to search up stocks and view the desired stock. Add stocks to the watchlist and remove them from the watchlist, and also allowing people to see different time frames of the chart. It givess users an idea of where they may want to buy in or sell based off of the key levels created by my algorythm
+This project in essence is a stock chart that allows you to search up stocks and view the desired stock. Add stocks to the watchlist and remove them from the watchlist, and also allowing people to see different time frames of the chart. It givess users an idea of where they may want to buy in or sell based off of the key levels created by my algorithm
 ---------------------------
 
 

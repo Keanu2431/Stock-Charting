@@ -10,7 +10,7 @@ class Graph {
     loader.classList.remove(`hidden`);
 
     fetch(
-      `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=${ticker}&outputsize=full&apikey=QJ1U982IFZYO3Q41`
+      `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=${ticker}&outputsize=full&apikey=QJ1U982IFZYO3Q41`
     )
       .then((data) => data.json())
       .then((data) => {
